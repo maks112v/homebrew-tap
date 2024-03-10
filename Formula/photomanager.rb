@@ -2,7 +2,7 @@ class Photomanager < Formula
   desc 'Photo manager for organizing photos into folders by date'
   homepage 'https://github.com/maks112v/PhotoManager'
   url 'https://github.com/maks112v/PhotoManager/archive/refs/tags/2024.1.tar.gz'
-  sha256 '9f31657c58dab6ea8eb9fee1588c8388ff98b51dd25e326df28dd15a9b3ad4e8'
+  sha256 '6eb8db63ec57519445d4497080f379894570ad39e4453540ca5a83940c6bdd04'
   version '2024.1'
 
   depends_on 'go' => :build
